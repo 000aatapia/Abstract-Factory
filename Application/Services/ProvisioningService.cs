@@ -1,54 +1,62 @@
-﻿using System;
+﻿using Application.DTOs;
+using Application.Interfaces;
+using Domain.Entities;
+using Domain.Factories;
+using Domain.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.DTOs;
-using Application.Interfaces;
-using Domain.Entities;
-using Domain.Enums;
-using Domain.Factories;
 
 
 namespace Application.Services;
 
 public class ProvisioningService : IProvisioningService
 {
-    private readonly IEnumerable<ICloudFactory> _factories;
-    public ProvisioningService(IEnumerable<ICloudFactory> factories)
+    private readonly Dictionary<string, ICloudResourceFactory> _factories;
+
+    public ProvisioningService(Dictionary<string, ICloudResourceFactory> factories)
     {
-        _factories = factories;
+        _factories = factories ?? throw new ArgumentNullException(nameof(factories));
     }
-    public async Task<ProvisioningResponseDto> ProvisionAsync(ProvisioningRequestDto request)
+
+    public async Task<ProvisioningResponseDto> ProvisionResourcesAsync(ProvisioningRequestDto request)
     {
-        var response = new ProvisioningResponseDto();
+        if (request == null)
+            throw new ArgumentNullException(nameof(request));
+
+        if (!_factories.TryGetValue(request.Provider.ToLower(), out var factory))
+        {
+            return new ProvisioningResponseDto
+            {
+                Provider = request.Provider,
+                Success = false,
+                Message = $"Proveedor '{request.Provider}' no soportado."
+            };
+        }
+
         try
         {
-            var factory = _factories.FirstOrDefault(f => f.Provider == request.Provider);
-            if (factory == null)
-                throw new InvalidOperationException($"No se encontró una fábrica para el proveedor {request.Provider}");
-
-            var network = factory.CreateNetwork();
-            var storage = factory.CreateStorage();
-            var vm = factory.CreateVirtualMachine();
+            INetwork network = factory.CreateNetwork(request.NetworkParameters);
+            IStorage storage = factory.CreateStorage(request.StorageParameters);
+            IVirtualMachine vm = factory.CreateVirtualMachine();
 
             network.CreateNetwork();
             storage.CreateStorage();
             vm.Provision(network, storage);
 
-            response.VmId = vm.Id;
-            response.NetworkId = network.Id;
-            response.StorageId = storage.Id;
-            response.Status = "Provisioned";
-            response.Message = $"Recursos aprovisonados correctamente en {request.Provider}";
+            var result = ProvisioningResult.Ok(
+                Guid.NewGuid().ToString(),
+                "Recursos aprovisionados correctamente."
+            );
 
+            return ProvisioningResponseDto.FromResult(request.Provider, result);
         }
         catch (Exception ex)
         {
-            response.Status = "Failed";
-            response.Message = $"Error: {ex.Message}";
+            var result = ProvisioningResult.Fail($"Error en aprovisionamiento: {ex.Message}");
+            return ProvisioningResponseDto.FromResult(request.Provider, result);
         }
-
-        return await Task.FromResult(response);
     }
 }

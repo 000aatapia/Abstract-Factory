@@ -9,10 +9,21 @@ namespace Infrastructure.Providers.AWS;
 
 public class AwsStorage : IStorage
 {
-    public string Id { get; private set; } = Guid.NewGuid().ToString();
+    public string Id { get; private set; } = string.Empty;
+    private readonly string _volumeType;
+    private readonly int _sizeGB;
+    private readonly bool _encrypted;
+
+    public AwsStorage(Dictionary<string, string> parameters)
+    {
+        _volumeType = parameters.GetValueOrDefault("volumeType", "gp2");
+        _sizeGB = int.Parse(parameters.GetValueOrDefault("sizeGB", "50"));
+        _encrypted = bool.Parse(parameters.GetValueOrDefault("encrypted", "false"));
+    }
 
     public void CreateStorage()
     {
-        Console.WriteLine("[AWS] Creando volumen EBS.....");
+        Id = Guid.NewGuid().ToString();
+        Console.WriteLine($"[AWS] Storage creado con tipo {_volumeType}, {_sizeGB} GB, Encriptado: {_encrypted}");
     }
 }

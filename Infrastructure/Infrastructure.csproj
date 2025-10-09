@@ -10,10 +10,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Providers\Azure\" />
-    <Folder Include="Providers\GCP\" />
-    <Folder Include="Providers\OnPremise\" />
-  </ItemGroup>
-
 </Project>

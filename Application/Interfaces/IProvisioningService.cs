@@ -1,4 +1,5 @@
 ﻿using Application.DTOs;
+using Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace Application.Interfaces
 {
     public interface IProvisioningService
     {
-        Task<ProvisioningResponseDto> ProvisionAsync(ProvisioningRequestDto request);
+        Task<ProvisioningResponseDto> ProvisionResourcesAsync(ProvisioningRequestDto request);
+
     }
 }

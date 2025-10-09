@@ -8,10 +8,20 @@ namespace Application.DTOs
 {
     public class ProvisioningResponseDto
     {
-        public string VmId { get; set; } = string.Empty;
-        public string NetworkId {  get; set; } = string.Empty;
-        public string StorageId { get; set; } = string.Empty;
-        public string Status { get; set; } = "Failed";
+        public bool Success { get; set; }
         public string Message { get; set; } = string.Empty;
+        public string ResourceId { get; set; } = string.Empty;
+        public string Provider { get; set; } = string.Empty;
+
+        public static ProvisioningResponseDto FromResult(string provider, Domain.ValueObjects.ProvisioningResult result)
+        {
+            return new ProvisioningResponseDto
+            {
+                Provider = provider,
+                Success = result.Success,
+                Message = result.Message,
+                ResourceId = result.ResourceId
+            };
+        }
     }
 }

@@ -5,15 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
 
-namespace Infrastructure.Providers.AWS;
+namespace Infrastructure.Providers.Azure;
 
-public class AwsVirtualMachine : IVirtualMachine
+public class AzureVirtualMachine : IVirtualMachine
 {
     public string Id { get; private set; } = string.Empty;
 
     public void Provision(INetwork network, IStorage storage)
     {
         Id = Guid.NewGuid().ToString();
-        Console.WriteLine($"[AWS] VM provisionada con NetworkID: {network.Id}, StorageID: {storage.Id}");
+        Console.WriteLine($"[Azure] VM creada con NetworkID: {network.Id}, StorageID: {storage.Id}");
     }
 }

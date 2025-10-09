@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
-using Domain.Enums;
 
 namespace Domain.Factories
 {
-    public interface ICloudFactory
+    public interface ICloudResourceFactory
     {
-        CloudProvider Provider { get; }
-        INetwork CreateNetwork();
-        IStorage CreateStorage();
+        INetwork CreateNetwork(Dictionary<string, string> parameters);
+        IStorage CreateStorage(Dictionary<string, string> parameters);
         IVirtualMachine CreateVirtualMachine();
     }
 }
