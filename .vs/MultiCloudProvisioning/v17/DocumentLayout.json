@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\aws\\awscloudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\aws\\awscloudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\aws\\awsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\aws\\awsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\aws\\awsstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\aws\\awsstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\aws\\awsvirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\aws\\awsvirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\factories\\icloudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +27,20 @@
       "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ivirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\entities\\inetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\inetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\entities\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\entities\\inetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\inetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82630C2-6726-4760-8E0D-09D3B4DDD5C1}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\cloudprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\dtos\\provisioningrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,58 +66,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProvisioningService.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ProvisioningService.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
-              "RelativeToolTip": "Application\\Services\\ProvisioningService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwDUAAAABAAAAAAAAAA==",
+              "Title": "AwsCloudFactory.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsCloudFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsCloudFactory.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsCloudFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsCloudFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:04:37.169Z",
+              "WhenOpened": "2025-10-09T05:46:32.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProvisioningRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningRequestDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ProvisioningRequestDto.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningRequestDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\ProvisioningRequestDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AwsVirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsVirtualMachine.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsVirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsVirtualMachine.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsVirtualMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:50:38.495Z",
+              "WhenOpened": "2025-10-09T05:43:50.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICloudFactory.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Factories\\ICloudFactory.cs",
-              "RelativeDocumentMoniker": "Domain\\Factories\\ICloudFactory.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Factories\\ICloudFactory.cs",
-              "RelativeToolTip": "Domain\\Factories\\ICloudFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Title": "AwsStorage.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:34:38.044Z",
+              "WhenOpened": "2025-10-09T05:43:25.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IVirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IVirtualMachine.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\IVirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IVirtualMachine.cs",
+              "RelativeToolTip": "Domain\\Entities\\IVirtualMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:25:32.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "INetwork.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\INetwork.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\INetwork.cs",
@@ -114,20 +139,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVirtualMachine.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IVirtualMachine.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\IVirtualMachine.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IVirtualMachine.cs",
-              "RelativeToolTip": "Domain\\Entities\\IVirtualMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ICloudFactory.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Factories\\ICloudFactory.cs",
+              "RelativeDocumentMoniker": "Domain\\Factories\\ICloudFactory.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Factories\\ICloudFactory.cs",
+              "RelativeToolTip": "Domain\\Factories\\ICloudFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:25:32.404Z",
+              "WhenOpened": "2025-10-09T03:34:38.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "AwsNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsNetwork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsNetwork.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsNetwork.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:42:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IStorage.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IStorage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\IStorage.cs",
@@ -140,7 +178,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "ProvisioningService.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProvisioningService.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
+              "RelativeToolTip": "Application\\Services\\ProvisioningService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:04:37.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProvisioningRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProvisioningRequestDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProvisioningRequestDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:50:38.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CloudProvider.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Enums\\CloudProvider.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\CloudProvider.cs",
@@ -148,12 +211,11 @@
               "RelativeToolTip": "Domain\\Enums\\CloudProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:30:09.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:30:09.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ProvisioningResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningResponseDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ProvisioningResponseDto.cs",
@@ -161,12 +223,11 @@
               "RelativeToolTip": "Application\\DTOs\\ProvisioningResponseDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:57:46.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:57:46.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IProvisioningService.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Interfaces\\IProvisioningService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IProvisioningService.cs",
@@ -174,21 +235,19 @@
               "RelativeToolTip": "Application\\Interfaces\\IProvisioningService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:01:33.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T04:01:33.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Domain",
+              "DocumentIndex": 13,
+              "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
               "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T04:00:14.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T04:00:14.576Z"
             }
           ]
         }
