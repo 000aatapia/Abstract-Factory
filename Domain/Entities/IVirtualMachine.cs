@@ -8,6 +8,7 @@ namespace Domain.Entities
 {
     public interface IVirtualMachine
     {
+        string Id { get; }
         string Name { get; }
         void Provision(INetwork network, IStorage storage);
     }
