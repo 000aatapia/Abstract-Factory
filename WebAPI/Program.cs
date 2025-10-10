@@ -1,15 +1,35 @@
+using Application.Interfaces;
+using Application.Services;
+using Domain.Factories;
+using Infrastructure.Providers.AWS;
+using Infrastructure.Providers.Azure;
+using Infrastructure.Providers.GCP;
+using Infrastructure.Providers.OnPremise;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// --- Servicios básicos ---
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// --- Registro de fábricas (Abstract Factory) ---
+var factories = new Dictionary<string, ICloudResourceFactory>(StringComparer.OrdinalIgnoreCase)
+{
+    { "aws", new AwsResourceFactory() },
+    { "azure", new AzureResourceFactory() },
+    { "gcp", new GcpResourceFactory() },
+    { "onpremise", new OnPremResourceFactory() }
+};
+
+// --- Registro del servicio de aprovisionamiento ---
+builder.Services.AddSingleton<IProvisioningService>(sp =>
+    new ProvisioningService(factories)
+);
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// --- Middlewares ---
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -17,9 +37,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

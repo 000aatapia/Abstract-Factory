@@ -19,8 +19,36 @@
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\aws\\awsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{29E551B4-52E8-4F7B-8F7F-4F341D228206}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E551B4-52E8-4F7B-8F7F-4F341D228206}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\onpremise\\onpremresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\onpremise\\onpremresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\gcp\\gcpresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\gcp\\gcpresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E551B4-52E8-4F7B-8F7F-4F341D228206}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\webapi\\controllers\\provisioningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E551B4-52E8-4F7B-8F7F-4F341D228206}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\provisioningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\interfaces\\iprovisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprovisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\gcp\\gcpnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\gcp\\gcpnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\onpremise\\onpremvirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\onpremise\\onpremnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\gcp\\gcpresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\gcp\\gcpresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\gcp\\gcpvirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\gcp\\gcpvirtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\azure\\azurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\gcp\\gcpnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\gcp\\gcpnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\azure\\azureresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\azure\\azureresourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\infrastructure\\providers\\azure\\azurenetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09EC23A9-5C65-4F7D-86D2-75ACD01D12C6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\providers\\azure\\azurenetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\services\\provisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\interfaces\\iprovisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprovisioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9A7F5A8-2FE7-4BBE-9DB2-9A77D7978E5E}|Application\\Application.csproj|c:\\users\\0user\\source\\abstract factory\\multicloudprovisioning\\application\\dtos\\provisioningresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,27 +135,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OnPremResourceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:30:07.212Z",
+              "WhenOpened": "2025-10-09T23:26:39.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OnPremVirtualMachine.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T23:22:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AwsStorage.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:29:42.737Z",
+              "WhenOpened": "2025-10-09T05:43:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GcpResourceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:28:01.62Z",
               "EditorCaption": ""
             },
             {
@@ -174,19 +212,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AwsStorage.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsStorage.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\AWS\\AwsStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T05:43:25.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AwsVirtualMachine.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\AWS\\AwsVirtualMachine.cs",
@@ -200,72 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OnPremStorage.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:29:17.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OnPremNetwork.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:28:38.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GcpResourceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpResourceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:28:01.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GcpVirtualMachine.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:27:33.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GcpStorage.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpStorage.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpStorage.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpStorage.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:26:31.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "GcpNetwork.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpNetwork.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpNetwork.cs",
@@ -278,72 +238,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AzureResourceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ProvisioningController.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\WebAPI\\Controllers\\ProvisioningController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProvisioningController.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\WebAPI\\Controllers\\ProvisioningController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProvisioningController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:25:23.452Z",
+              "WhenOpened": "2025-10-09T23:25:02.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AzureVirtualMachine.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "OnPremResourceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremResourceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:23:50.398Z",
+              "WhenOpened": "2025-10-09T18:30:07.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AzureStorage.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureStorage.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureStorage.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureStorage.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:22:16.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AzureNetwork.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
-              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:21:35.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProvisioningService.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ProvisioningService.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
-              "RelativeToolTip": "Application\\Services\\ProvisioningService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:04:37.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "IProvisioningService.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Interfaces\\IProvisioningService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IProvisioningService.cs",
@@ -356,7 +277,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProvisioningService.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProvisioningService.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\Services\\ProvisioningService.cs",
+              "RelativeToolTip": "Application\\Services\\ProvisioningService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:04:37.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnPremVirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremVirtualMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:29:42.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OnPremStorage.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:29:17.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OnPremNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\OnPremise\\OnPremNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:28:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GcpVirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpVirtualMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:27:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GcpStorage.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpStorage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\GCP\\GcpStorage.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\GCP\\GcpStorage.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\GCP\\GcpStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:26:31.987Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "AzureResourceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureResourceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:25:23.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AzureVirtualMachine.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureVirtualMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:23:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AzureStorage.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureStorage.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureStorage.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureStorage.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:22:16.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AzureNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
+              "RelativeToolTip": "Infrastructure\\Providers\\Azure\\AzureNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:21:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ProvisioningResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningResponseDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ProvisioningResponseDto.cs",
@@ -364,12 +406,11 @@
               "RelativeToolTip": "Application\\DTOs\\ProvisioningResponseDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:57:46.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:57:46.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ProvisioningResult.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\ValueObjects\\ProvisioningResult.cs",
               "RelativeDocumentMoniker": "Domain\\ValueObjects\\ProvisioningResult.cs",
@@ -377,12 +418,11 @@
               "RelativeToolTip": "Domain\\ValueObjects\\ProvisioningResult.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T16:34:24.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T16:34:24.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ICloudResourceFactory.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Factories\\ICloudResourceFactory.cs",
               "RelativeDocumentMoniker": "Domain\\Factories\\ICloudResourceFactory.cs",
@@ -390,12 +430,11 @@
               "RelativeToolTip": "Domain\\Factories\\ICloudResourceFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T17:17:37.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T17:17:37.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IVirtualMachine.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IVirtualMachine.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\IVirtualMachine.cs",
@@ -403,12 +442,11 @@
               "RelativeToolTip": "Domain\\Entities\\IVirtualMachine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:25:32.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:25:32.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "IStorage.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\IStorage.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\IStorage.cs",
@@ -416,12 +454,11 @@
               "RelativeToolTip": "Domain\\Entities\\IStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:22:59.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:22:59.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "INetwork.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Entities\\INetwork.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\INetwork.cs",
@@ -429,12 +466,11 @@
               "RelativeToolTip": "Domain\\Entities\\INetwork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:19:59.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:19:59.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ProvisioningRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Application\\DTOs\\ProvisioningRequestDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ProvisioningRequestDto.cs",
@@ -442,12 +478,11 @@
               "RelativeToolTip": "Application\\DTOs\\ProvisioningRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T03:50:38.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T03:50:38.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\0User\\source\\abstract Factory\\MultiCloudProvisioning\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -455,7 +490,8 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T04:00:14.576Z"
+              "WhenOpened": "2025-10-09T04:00:14.576Z",
+              "EditorCaption": ""
             }
           ]
         }
